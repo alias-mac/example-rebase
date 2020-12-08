@@ -1,6 +1,8 @@
 // this is an example file
 
-function function1() {}
+function function1(a, b) {
+  return a + b;
+}
 
 function function2() {}
 
